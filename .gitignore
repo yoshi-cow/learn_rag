@@ -1,3 +1,6 @@
 # DtoEnv configuration
 .env
 
+
+# data
+./data/
